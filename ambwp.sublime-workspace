@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cook",
+				"cookies"
+			],
+			[
+				"fil",
+				"file1"
+			],
+			[
+				"pr",
+				"prefix"
+			],
+			[
+				"tomcat",
+				"tomcat_dir"
+			],
+			[
+				"lifer",
+				"liferay-portal"
+			],
+			[
+				"La",
+				"LANGUAGE_CD"
+			],
+			[
+				"ps",
+				"PS_BO_ROLE_TYPE"
+			],
+			[
+				"L",
+				"LAST_NAME"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"last_filter": "brack",
+		"selected_items":
+		[
+			[
+				"brack",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/parasjain/Sites/ambwp"
+	],
+	"file_history":
+	[
+		"/Users/parasjain/Sites/ambwp/ambwpprojectforsublimetext",
+		"/Users/parasjain/Documents/AFT KT",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal/tomcat-7.0.42/webapps/ROOT/WEB-INF/classes/META-INF/portal-log4j-ext.xml",
+		"/Users/parasjain/Downloads/Logs_opps_page_issue.txt",
+		"/Users/parasjain/Downloads/MyWindowsKey.pem.txt",
+		"/Users/parasjain/Downloads/MyEC2Key.pem.txt",
+		"/Users/parasjain/springprojects/spring-captcha-example/WebContent/WEB-INF/spring-captcha-servlet.xml",
+		"/Users/parasjain/springprojects/spring-captcha-example/WebContent/WEB-INF/web.xml",
+		"/Users/parasjain/springprojects/spring-captcha-example/pom.xml",
+		"/Users/parasjain/springprojects/spring-captcha-example/src/net/parasjain/controller/SpringCaptchaDemo.java",
+		"/Users/parasjain/springprojects/CrunchifySpringMVCTutorial/src/com/crunchify/controller/CrunchifyHelloWorld.java",
+		"/Users/parasjain/springprojects/spring-captcha-example/src/net/paras/controller/SpringCaptchaDemo.java",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-ce-portal-7.0-ga2/portal-setup-wizard.properties",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-ce-portal-7.0-ga2/tools/portal-tools-db-upgrade-client/portal-upgrade-database.properties",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-portal-6.2-ce-ga6/tomcat-7.0.62/bin/setenv.sh",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal/tomcat-7.0.42/bin/setenv.sh",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-ce-portal-7.0-ga2/portal-ext.properties",
+		"/Users/parasjain/Downloads/error.txt",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal/tomcat-7.0.42/webapps/ROOT/WEB-INF/classes/META-INF/log4j.dtd",
+		"/Users/parasjain/Downloads/techspace.wordpress.2016-06-08.xml",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-portal-6.2-ce-ga6/portal-setup-wizard.properties",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/14545743A795A790.501f/14545743A79C2F70.501f/gradle-wrapper-classpath.properties",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/14545743A795A790.501f/14545743A79C2F70.501f/build-receipt.properties",
+		"/Users/parasjain/liferayprojects/liferayideproject1/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/parasjain/liferayprojects/liferayideproject1/configs/local/portal-ext.properties",
+		"/Users/parasjain/liferayprojects/liferayideproject1/configs/dev/portal-ext.properties",
+		"/Users/parasjain/liferayprojects/liferayideproject1/build.gradle",
+		"/Users/parasjain/liferayprojects/liferayideproject1/build/liferayideproject1/portal-ext.properties",
+		"/Users/parasjain/Downloads/aws.txt",
+		"/Users/parasjain/liferayprojects/liferayEE/liferay-dxp-digital-enterprise-7.0-b2/portal-setup-wizard.properties",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-portal-7.0-ce-ga1/portal-ext.properties",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-portal-7.0-ce-ga1/curl -XPUT localhost:9200:LiferayElasticsearchClus",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal/portal-ext.properties",
+		"/Users/parasjain/liferayprojects/lifecare/lifecare-sdk-lifemart-dev/deploy/lifemart-prod/portal-ext-lifemart-plxray03.properties",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-portal-7.0-ce-b6/portal-setup-wizard.properties",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-portal-7.0-ce-ga1/osgi/war/hello-world-portlet-7.0.0.1/view.jsp",
+		"/Users/parasjain/angularprojects/angular2-quickstart/app/main.js",
+		"/Users/parasjain/angularprojects/angular2-quickstart/app/app.component.js",
+		"/Users/parasjain/angularprojects/angular2-quickstart/index.html",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-portal-7.0-ce-ga1/portal-setup-wizard.properties",
+		"/Users/parasjain/liferayprojects/liferayCE/liferay-portal-7.0-ce-ga1/tomcat-8.0.32/bin/setenv.sh",
+		"/Users/parasjain/Downloads/temp/test.sh",
+		"/Users/parasjain/liferayprojects/sargento/docs/Sargento Notes",
+		"/Users/parasjain/Downloads/broadleaf/DemoSite/tomcat-server-conf/context.xml",
+		"/Users/parasjain/Downloads/cacheTest.groovy",
+		"/Users/parasjain/Desktop/lcs-portlet/WEB-INF/liferay-plugin-package.properties",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/14504C922FFA53D0.134e5/14504C9230011E18.134e5/WEB-INF/liferay-plugin-package.properties",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/14504CEA1B6738B8.1354a/14504CEA1B7D3D70.1354a/WEB-INF/liferay-plugin-package.properties",
+		"/Users/parasjain/liferayprojects/sargento/sargento-portal/tomcat-7.0.25/conf/Catalina/localhost/ROOT.xml",
+		"/Users/parasjain/liferayprojects/sargento/sargento-portal/tomcat-7.0.25/conf/server.xml",
+		"/Users/parasjain/liferayprojects/sargento/sargento-portal/portal-ext.properties",
+		"/Users/parasjain/liferayprojects/sargento/sargento-portal/portal-setup-wizard.properties",
+		"/Users/parasjain/liferayprojects/sargento/sargento-portal/tomcat-7.0.25/conf/context.xml",
+		"/Users/parasjain/Downloads/WLLMgrp_20160504.csv",
+		"/Users/parasjain/Downloads/LMdemousers3.csv",
+		"/Users/parasjain/liferayprojects/lifecare/docs/Merged WL URLS",
+		"/Users/parasjain/Downloads/WLLMgrp_20160504.xlsx",
+		"/Users/parasjain/Downloads/catalina-files-sigma/catalina-node2.out",
+		"/Users/parasjain/Downloads/catalina-files-sigma/catalina-node1.out",
+		"/Users/parasjain/Downloads/activation-key-production-6.2ee-lifecaretemp.xml",
+		"/Users/parasjain/Documents/Rough Notes",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal/tomcat-7.0.42/conf/server.xml",
+		"/Users/parasjain/Desktop/paras.css",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal/tomcat-7.0.42/conf/web.xml",
+		"/Users/parasjain/Downloads/CustomHTML_KindercareEducation_AetaEAP_ORIGINAL (1).txt",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal/tomcat-7.0.42/webapps/ROOT/WEB-INF/web.xml",
+		"/Users/parasjain/solr1/bin/solr",
+		"/Users/parasjain/liferayprojects/lifecare/logins.html",
+		"/Users/parasjain/Downloads/paras (1).css",
+		"/Users/parasjain/Downloads/paras.css",
+		"/Users/parasjain/Downloads/CustomHTML_KindercareEducation_AetaEAP_ORIGINAL.txt",
+		"/Users/parasjain/GroovyScript.txt",
+		"/Users/parasjain/liferayprojects/lifecare/docs/DEMO Script Apr 22",
+		"/Users/parasjain/Downloads/Groovy",
+		"/Users/parasjain/Downloads/liferay_checks.sh",
+		"/Users/parasjain/Documents/ATG/roughnotes.txt",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/14456699DA525FD8.7706/14456699DA5AD3E8.7706/WEB-INF/classes/META-INF/ext-spring.xml",
+		"/Users/parasjain/liferayprojects/lifecare/lifecare-sdk-lifemart-dev/deploy/jmeter/runjmeterui.sh",
+		"/Users/parasjain/Downloads/lifemart-common-portlet/docroot/WEB-INF/service/com/lifecare/lifemart/service/persistence/CustomExpandoValuePersistence.java",
+		"/Users/parasjain/Downloads/lifemart-common-portlet/docroot/WEB-INF/src/META-INF/ext-spring.xml",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/14456699DA525FD8.7706/14456699DA5AD3E8.7706/WEB-INF/classes/META-INF/portlet-hbm.xml",
+		"/Users/parasjain/liferayprojects/lifecare/docs/Technical Stuff/ChangePassword/WSClientChangePswd.java",
+		"/Users/parasjain/Downloads/ja-apr-12.csv",
+		"/Users/parasjain/liferayprojects/noridian/noridian-member/portlets/member-integration-services-portlet/docroot/WEB-INF/src/META-INF/member-spring.xml",
+		"/Users/parasjain/liferayprojects/noridian/noridian-member/portlets/member-integration-services-portlet/docroot/WEB-INF/src/META-INF/hibernate-spring.xml",
+		"/Users/parasjain/liferayprojects/noridian/noridian-member/portlets/member-integration-services-portlet/docroot/WEB-INF/src/META-INF/portlet-spring.xml",
+		"/Users/parasjain/liferayprojects/lifecare/docs/TODO NEW",
+		"/Users/parasjain/Desktop/CacheRefresherParas.java",
+		"/Users/parasjain/Desktop/Penaske-QA-post-20150304.html",
+		"/Users/parasjain/liferayprojects/lifecare/lifecare-sdk-lifemart-dev/portlets/worklife-mylife-portlet/docroot/WEB-INF/src/content/Language.properties",
+		"/Users/parasjain/liferayprojects/lifecare/docs/Performance Todos",
+		"/Users/parasjain/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal1/tomcat-7.0.42/conf/server.xml",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal1/portal-ext.properties",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal1/tomcat-7.0.42/bin/setenv.sh",
+		"/Users/parasjain/Desktop/license-portaldevelopment-developer-6.2ee-lifecare.xml",
+		"/Users/parasjain/liferayprojects/lifecare/lifemart-portal1/tomcat-7.0.42/webapps/ROOT/WEB-INF/classes/ehcache/unicast.xml",
+		"/Users/parasjain/liferayprojects/liferayEE/licenses/license-portaldevelopment-developer-6.2ee-rivetlogicdeveloper.xml",
+		"/Users/parasjain/Desktop/lifemart_external_march_31_2016.mssql",
+		"/Users/parasjain/liferayprojects/lifecare/lifecare-sdk-lifemart-dev/portlets/lifemart-common-portlet/docroot/WEB-INF/service/com/lifecare/lifemart/util/LifeMartCacheUtil.java",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/143E7EA68E2241A0.5f0/143E7EA68E289E88.5f0/build-info.properties",
+		"/Users/parasjain/Downloads/ehcache-cluster-web-src-6.2.10.1/WEB-INF/src/META-INF/messaging-spring.xml",
+		"/Users/parasjain/Downloads/tree-2016-03-22_0840-pretty.json",
+		"/Users/parasjain/Desktop/Stack_Trace___com_lifecare_lifemart_service_DiscountsDisplayLocalServiceUtil_getAccendingDiscountsByCompanyAndSubcategory_116 (1).txt",
+		"/Users/parasjain/Desktop/Stack_Trace___com_lifecare_lifemart_service_DiscountsDisplayLocalServiceUtil_getAccendingDiscountsByCompanyAndSubcategory_116.txt",
+		"/Users/parasjain/Desktop/newTree.json",
+		"/Users/parasjain/Downloads/ehcache-cluster-web-src-6.2.10.1/WEB-INF/src/META-INF/ehcache-cluster-spring.xml",
+		"/Users/parasjain/Downloads/temp/outputlcc30.csv",
+		"/Users/parasjain/Desktop/jsonNewRelic.json",
+		"/Users/parasjain/Downloads/temp/somescript.sh",
+		"/Users/parasjain/Desktop/LM Customers_Demo Login-20160318/Sheet1-Table 1.csv",
+		"/Users/parasjain/Desktop/LM Customers_Demo Login-20160318.xlsx",
+		"/Users/parasjain/zookeeper1/bin/zkServer.sh",
+		"/Users/parasjain/Downloads/download/liferay-hotfix-13339-6210/src/portal-impl/src/com/liferay/portlet/documentlibrary/action/EditFileEntryAction.java",
+		"/Users/parasjain/solr1/bin/start.sh",
+		"/Users/parasjain/Downloads/download/liferay-hotfix-13339-6210/src/portal-service/src/com/liferay/portal/kernel/cache/PortalCache.java",
+		"/Users/parasjain/Downloads/license-portalnonproduction-production-6.2ee-lifecare (1).xml",
+		"/Users/parasjain/liferayprojects/sargento/docs/Sargento-Prod-Errors-Feb-10-to-Feb-17.txt",
+		"/Users/parasjain/Downloads/download/liferay-hotfix-13339-6210/fixpack_documentation.xml",
+		"/Users/parasjain/Downloads/setenv-plxray03.sh",
+		"/Users/parasjain/liferayprojects/lifecare/lifecare-sdk-lifemart-dev/deploy/lifecare-prod/liferay/portal-ext-plxray03.properties",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/143C5D6EC815A308.4b8a/143C5D6EC81C59C8.4b8a/WEB-INF/src/service.properties",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/143C5D4DB76CCD40.4b62/143C5D4DB7730AE8.4b62/WEB-INF/src/service.properties",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/143C5D4DB76CCD40.4b62/143C5D4DB7730AE8.4b62/WEB-INF/classes/service.properties",
+		"/Users/parasjain/Library/Caches/TemporaryItems/Zipeg/143C5BB279D883A8.4a34/143C5BB279E26EB8.4a34/WEB-INF/src/service.properties",
+		"/Users/parasjain/liferayprojects/sargento/prod-logs/mergeeffort/mergelogs.txt",
+		"/Users/parasjain/liferayprojects/sargento/prod-logs/mergeeffort/createcleaneduperrorlogfile.sh",
+		"/Users/parasjain/liferayprojects/sargento/prod-logs/mergeeffort/mergedlogs.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&amp;",
+			"LiferayPool",
+			"liferay",
+			"quick view .",
+			"quick view.",
+			"skip",
+			"<category name=\"com.liferay.portal.search.solr\">\n   <priority value=\"DEBUG\" />\n </category>\n",
+			"cgarconnet",
+			"Kme",
+			"kmehtx",
+			"kmeht",
+			",,,",
+			"println \"",
+			"Lxgm%2FQeeLiY%0AOjojeEjtpWUoWV3vZ0XAwbAyKhA%3D",
+			"ClassNot",
+			"may 09",
+			"cookie",
+			"<error-code>500</error-code>",
+			"'$Current_Company_Id$'",
+			"'$Parent_Company_Id$'",
+			"'$Current_Company_Id$'",
+			"'$Parent_Company_Id$'",
+			"@@CRM_OWNER_NAMESPACE@@",
+			"? AND ?",
+			"? and ?",
+			"LOG.debug",
+			"\"))",
+			"FINAL_COMPANYID_CAROUSEL_DISCOUNT_IDS_CACHE",
+			"carouselDis",
+			"ext_lifemart",
+			"Yes",
+			"yes",
+			"welcome",
+			"Truncate table ",
+			"CATEGORYID_DIS",
+			"public static final PortalCache",
+			"getCompanyCategory",
+			"<div class=\"header-wrapper\">",
+			"select your",
+			"Select your Exact",
+			"\tBuild and cache map\n\t\tcacheKey - companyId-categoryId-subcategoryId\n\t\tValue - List<DiscountIds> \n\n\n",
+			"\tBuild and cache map\n\t\tcacheKey - companyId-subcategoryId\n\t\tValue - List<DiscountIds> \n\n",
+			"lifecare",
+			"categoryNavigationPor",
+			"popular",
+			"todoper",
+			"TODOPE",
+			"getCategoriesIncludedByCompany",
+			"TODO",
+			"getCategoriesIncludedByCompany",
+			"PortalCache",
+			"Multivm",
+			"boot",
+			"ERROR ",
+			"could not zip folderId",
+			"ldap",
+			"ERROR ",
+			"ERROR [SocketOpenOfficeConnection:75] disconnected unexpectedly",
+			"ERROR \\[ImageProcessorImpl:269\\] javax.imageio.IIOException: Invalid argument to native writeImage",
+			"ERROR [LDAPAuth:321] Problem accessing LDAP server",
+			"ERROR [LDAPAuth:321] Problem accessing LDAP server\n",
+			"ERROR [ImageProcessorImpl:269] javax.imageio.IIOException: Invalid argument to native writeImage",
+			"ERROR [IncludeTag:154] com.liferay.portlet.asset.NoSuchEntryException: No AssetEntry exists",
+			"ERROR ",
+			"ERROR",
+			"ERROR [IncludeTag:154] com.liferay.portlet.asset.NoSuchEntryException: No AssetEntry exists",
+			"ERROR ",
+			"e_vendorName",
+			"complete",
+			"suggest",
+			"/query",
+			"synonym_edismax",
+			"[LuceneHelperImpl:242] java.lang.ClassCastException: org.apache.lucene.search.TermQuery cannot be cast to org.apache.lucene.search.BooleanQuery",
+			"java.lang.ClassCastException: org.apache.lucene.search.TermQuery cannot be cast to org.apache.lucene.search.BooleanQuery",
+			"ERROR ",
+			"digit",
+			"com.liferay.portal.search.solr.SolrIndexWriter",
+			"indexer",
+			"23688878",
+			"23",
+			"No AssetEntry exists with the key",
+			"local",
+			"No AssetEntry",
+			"no gene",
+			"labor",
+			"boot",
+			"labor",
+			"Tracking",
+			"doFindByC_G_S_N_D",
+			"BasicAuthSolrServerReader",
+			"server",
+			"solrser",
+			"-Dhttps",
+			"zip",
+			"path",
+			"bootstra",
+			"start",
+			"boot",
+			"java",
+			"No AssetEntry",
+			"NoAssetEntry",
+			"worklifecore1",
+			"lifemartc",
+			"node",
+			"core",
+			"data",
+			"schema",
+			"config",
+			"solr.data.dir",
+			"core",
+			"collec",
+			"conf",
+			"myconf",
+			"articlei",
+			"myconf",
+			"Invalid argument to native writeImage",
+			"schem",
+			"articleId",
+			"\t<bean id=\"com.liferay.portal.search.solr.SolrSearchEngineImpl\" class=\"com.liferay.portal.kernel.search.BaseSearchEngine\">\n\t\t<property name=\"clusteredWrite\" value=\"false\" />\n\t\t<property name=\"indexSearcher\" ref=\"com.liferay.portal.search.solr.SolrIndexSearcher\" />\n\t\t<property name=\"indexWriter\" ref=\"com.liferay.portal.search.solr.SolrIndexWriter\" />\n\t\t<property name=\"luceneBased\" value=\"true\" />\n\t\t<property name=\"vendor\" value=\"SOLR\" />\n\t</bean>\n",
+			"com.liferay.portal.search.solr.SolrSearchEngineImpl",
+			"spellCheckIndexWriter",
+			"indexwri",
+			"${tomcat_home}",
+			"${tomcat_home}\n",
+			"login.events.post",
+			"impor",
+			"car",
+			"carous"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&",
+			"",
+			"LOG.debug(\"",
+			"'11'",
+			"'SITEMASTER'",
+			"'11'",
+			"CRM_OWNER.",
+			"'2016/04/22 18:37:14' AND '2016/04/22 19:52:29'",
+			"print",
+			"delete from ",
+			"",
+			"tomcat",
+			"tportaluser",
+			"aug21",
+			"",
+			"lifecareportaljul2",
+			");",
+			"insert into TempId values(",
+			"",
+			"\\n",
+			"",
+			"'l1f3caredbpass'",
+			"dportaluser",
+			"devportal1",
+			"LCC_OWNER.",
+			",",
+			"",
+			" ",
+			"",
+			"CRM_OWNER.",
+			"lifecare.vm1.rivetlogic.com",
+			"/mnt/bamboo/BAMBOO_HOME/xml-data/build-dir/LIF-SON-DBDWS/liferay-portal/",
+			"19357",
+			"WEB_CASE_DELIVERY_YN",
+			"VW_USER_PRODUCT_XREF",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "ambwp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
