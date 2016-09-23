@@ -9,6 +9,7 @@ if ( $modelObj != null) {
 <form name="gwpm-profile-form" action="<?php $this->getActionURL(); ?>"
 	method="post" enctype="multipart/form-data">
 	<div id="gwpm_accordion">
+		<h4>Feel free to use contact field to enter any information which is missing from the form</h4>
 		<h3>
 			<a href="#">Basic Information</a>
 		</h3>
