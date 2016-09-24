@@ -12,6 +12,7 @@
 
 screen_icon('options-general'); 
 echo "<h2>" . __( 'Matrimonial Profile', 'genie_wp_matrimony' ) . "</h2>" ;
+echo "<h4>Feel free to use contact field to enter any information which is missing from the form</h4>";
 try {
 	$profileModel = new GwpmProfileModel() ;
 	$userObj = wp_get_current_user();
